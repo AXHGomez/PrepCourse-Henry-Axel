@@ -1,2 +1,1 @@
-# PrepCourse-Henry-Axel
-Este es un repositorio del modulo 2 papá aguante la merca
+Prueba de como crear un repositorio y clonarlo desde GitHub a mi computadora.
